@@ -7,6 +7,10 @@
     <FileVersion>0.9.8.0</FileVersion>
     <Description>GlmSharp forked from Philip-Trettner/GlmSharp, targets .NET Standard 2.0</Description>
     <Version>0.9.8</Version>
+    <Authors>Philip-Trettner/joaconigro</Authors>
+    <Product>GlmSharp</Product>
+    <PackageProjectUrl>https://github.com/joaconigro/GlmSharp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/joaconigro/GlmSharp</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
